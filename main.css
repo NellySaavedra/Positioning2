@@ -1,0 +1,19 @@
+.padre {
+	width: 200px;
+	height: 200px;
+	background-color: #008080;
+	position: absolute;
+}
+.hijo1verde {
+	width: 100px;
+	height: 100px;
+	background-color: #006400;
+	position: relative;
+	margin: 50px;
+}
+.nieto2amarillo {
+	width: 50px;
+	height: 50px;
+	background-color: #FFFF00;
+	position: static;
+	
